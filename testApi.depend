@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1469770571 source:/home/liuh/workspace/testApi/main.cpp
+	<iostream>
+	"ThostFtdcMdApi.h"
+	"ThostFtdcTraderApi.h"
+	"ThostFtdcUserApiDataType.h"
+	"ThostFtdcUserApiStruct.h"
+	<string.h>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<math.h>
+	"CalculateInsertData.cpp"
+
+1468823051 /home/liuh/workspace/testApi/ThostFtdcMdApi.h
+	"ThostFtdcUserApiStruct.h"
+
+1450161047 /home/liuh/workspace/testApi/ThostFtdcUserApiStruct.h
+	"ThostFtdcUserApiDataType.h"
+
+1450161047 /home/liuh/workspace/testApi/ThostFtdcUserApiDataType.h
+
+1450161047 /home/liuh/workspace/testApi/ThostFtdcTraderApi.h
+	"ThostFtdcUserApiStruct.h"
+
+1469770568 source:/home/liuh/workspace/testApi/testTrade.cpp
+	<iostream>
+	"ThostFtdcMdApi.h"
+	"ThostFtdcTraderApi.h"
+	"ThostFtdcUserApiDataType.h"
+	"ThostFtdcUserApiStruct.h"
+	<string.h>
+	<stdio.h>
+
+1469597217 /home/liuh/workspace/testApi/CalculateInsertData.cpp
+
